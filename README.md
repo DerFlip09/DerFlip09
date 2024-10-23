@@ -10,7 +10,8 @@ Focus lies on **Python**, **HTML**, **CSS** and **JavaScript**. We also learned 
  ![Software Testing](https://img.shields.io/badge/-Software%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white) ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white) 
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white) ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![MS Visual Studio](https://img.shields.io/badge/-MS%20Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-## My GitHub stats:
+ 
+### My GitHub stats:
 ![##GitHub stats](https://github-readme-stats.vercel.app/api?username=DerFlip09&amp;show_icons=true)
 
- ## Thank you for visiting my profile! 👋 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DerFlip09.visitor-badge&format=true)
+### Thank you for visiting my profile! 👋 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DerFlip09.visitor-badge&format=true)
