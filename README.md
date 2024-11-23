@@ -1,6 +1,6 @@
 ## Hi folks!
 My name is Phillip Bauer. I have a background in Marketing & Sales but been passionate about **Software Development** for years. Now i made a change and started in the **Masterschool Bootcamp for Software Engineering**. 
-Focus lies on **Python**, **HTML**, **CSS** and **JavaScript**. We also learned about **SQL**, **Flask** and **Pytest**. My next step will be the role-based learning, which leads me to a deeper understanding of **backend Technologies**.
+Focus lies on **Python**, **HTML**, **CSS** and **JavaScript**. We also learned about **SQL**, **Flask** and **Pytest**. My next step will be the role-based learning, which leads me to a deeper understanding of **AI Technologies**.
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white) 
