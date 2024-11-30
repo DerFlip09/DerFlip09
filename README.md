@@ -1,3 +1,4 @@
+![github_profile](https://github.com/user-attachments/assets/3dfc3883-60fd-414d-bc29-a2cbb50b4841)
 ## Hi folks!
 My name is Phillip Bauer. I have a background in Marketing & Sales but been passionate about **Software Development** for years. Now i made a change and started in the **Masterschool Bootcamp for Software Engineering**. 
 Focus lies on **Python**, **HTML**, **CSS** and **JavaScript**. We also learned about **SQL**, **Flask** and **Pytest**. My next step will be the role-based learning, which leads me to a deeper understanding of **AI Technologies**.
